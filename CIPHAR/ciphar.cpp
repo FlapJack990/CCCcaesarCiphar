@@ -27,5 +27,5 @@ string Caesar_Ciphar(string seq) {
 }
 
 main() {
-    cout << Caesar_Ciphar("Hello Muhammed");
+    cout << Caesar_Ciphar("Hola AMigo.. have a nice day!");
 }

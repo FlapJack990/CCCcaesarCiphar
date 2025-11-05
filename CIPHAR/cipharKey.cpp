@@ -31,6 +31,6 @@ string Cipher_decryption(string seq) {
 
 
 int main (){
-    cout << Cipher_decryption("KHOOR PXKDPPHG");
+    cout << Cipher_decryption("KROD DPLJR.. KDYH D QLFH GDB!");
     return 0;
 }
