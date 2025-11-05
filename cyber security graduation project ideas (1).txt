@@ -1,0 +1,176 @@
+### Network Security
+- Firewall Simulation – Design a simple firewall to block suspicious traffic.
+- Network Traffic Analyzer – Monitor and analyze network traffic for threats.
+- Intrusion Detection System (IDS) – Develop an IDS to detect suspicious network activities.
+- Anti-DDoS System – Design a system to protect against Distributed Denial of Service attacks.
+- Network Packet Sniffer – Develop a tool to capture and analyze network packets.
+- VPN (Virtual Private Network) – Build a simple VPN service for secure internet browsing.
+- Honeypot system for network security.
+- Firewall implementation with threat detection.
+- Analysis of network vulnerabilities and protection against them
+- Ensuring security during data transmission over the Internet
+- Methods of protection against DDoS attacks and phishing
+- Protection against inter-network attacks
+- Analysis and prevention of cyberattacks on computer networks
+- Protection of local networks from external threats
+- Software for network security monitoring
+- Methods for detecting hidden threats on the Internet
+- Development of a server intrusion detection and prevention system
+- Protection against attacks on network protocols
+- Development of mechanisms for protection against traffic interception in a local network
+- Protection of telecommunication network infrastructure
+- Development of tools for protection against ARP attacks and DNS spoofing
+- Ensuring security in the use of wireless networks
+- Protection against DoS attacks and increasing service availability
+- Protection against "man-in-the-middle" attacks
+- Ensuring the security of virtual private networks
+- Protection against attacks on cryptographic encryption methods
+- Protection against attacks on SSL encryption
+- Protection against attacks on network devices: routers, switches, Wi-Fi access points
+- Creation of mechanisms for protection against attacks on DNS servers
+- Protection against attacks on traffic management systems in networks
+- Ensuring security when using Wi-Fi Calling and VoWiFi
+
+### Web and Application Security
+- SQL Injection Defense – Develop a tool to prevent SQL injection in web apps.
+- Browser Security Plugin – Make a browser extension that enhances web security.
+- Web App Security Audit Tool – Build a tool to scan websites for vulnerabilities.
+- Software tools for web application security
+- Using access rights separation technology to ensure web application security
+- Software for protection against attacks on the HTTP protocol
+- Development of software for protection against data theft from the user's browser
+- Software for detecting and preventing SQL injections
+
+### Malware and Threat Detection
+- Anti-Malware Software – Write a basic malware detection program.
+- Keylogger Detection Tool – Develop software to detect keylogging attempts.
+- Data Breach Detection Tool – Build software to detect data breaches in real-time.
+- Log Analysis Tool – Develop software to analyze and detect threats in system logs.
+- Development of antivirus and anti-hacker software
+- Software for protection against spyware
+- Development of malware protection tools
+- Cyber threat intelligence system.
+- Analysis and forecasting of information security threats
+- Development of methods for detecting vulnerabilities in operating systems
+- Detection and prevention of internal information security threats
+- Creation of a cyber threat monitoring and response system
+- Software for detecting and preventing internal threats in an organization
+- Development of methods for protection against Trojans and rootkits
+- Software for detecting and preventing attacks on the SSH protocol
+- Protection against attacks on machine learning and AI systems
+
+### Encryption and Data Protection
+- Data Encryption Tool – Create software to encrypt and decrypt data files.
+- Secure File Transfer Protocol – Build a secure file-sharing system.
+- Email Security Tool – Make software to encrypt and securely send emails.
+- File Integrity Checker – Create software to check if files have been tampered with.
+- Secure file transfer system.
+- Data encryption tool for email security.
+- Using cryptographic methods for data protection
+- Development of information encryption algorithms
+- Creation of a message encryption and decryption system
+- Protection against attacks on email and messaging
+- Development of a data integrity control system
+- Using steganography methods to hide information in images and sound
+- Protection of information about computer systems and networks from leaks
+- Creation of a system for protection against information leaks through USB devices
+- Creation of a system for protection against confidential information leaks in the cloud
+
+### Authentication and Access Control
+- Password Strength Checker – Build a program that rates password security.
+- User Authentication System – Create a secure login and password recovery system.
+- Password Manager – Build a secure program to store and manage passwords.
+- Biometric Security System – Design a system that uses fingerprints or facial recognition for security.
+- Face Recognition for Secure Login – Use facial recognition for secure login systems.
+- Password manager with encryption.
+- Use of biometric technologies in security systems
+- Development of an information access control system in networks
+- Software for protection against identity theft
+- Protection of passwords and logins from hacking and exploitation
+- Protection against attacks on facial recognition and biometric identification systems
+
+### Mobile and Device Security
+- Wi-Fi Security Analyzer – Develop a tool to test the security of Wi-Fi networks.
+- Mobile App Vulnerability Scanner – Build a tool to find vulnerabilities in mobile apps.
+- Smartphone Anti-Theft App – Create an app that locks phones remotely if stolen.
+- Protection against hacker attacks on mobile devices
+- Data protection on mobile devices
+- Protection against attacks on mobile devices in a corporate environment
+- Ensuring security when using mobile banking services
+- Protection against attacks on contactless payment systems and mobile wallets
+- Protection against attacks on remote access systems
+
+### IoT and Embedded Security
+- IoT Device Security – Test and improve security for IoT devices.
+- IoT Security Framework – Develop a security framework for smart home devices.
+- IoT device and network security
+- Using methods for detecting and protecting against compromised devices in IoT networks
+- Protection against attacks on production process control systems
+- Protection against attacks on video surveillance systems
+- Protection against attacks on network printers and MFPs
+- Protection against attacks on access control systems and video intercoms
+- Development of methods for protection against attacks on digital television and IPTV systems
+- Creation of a system for protection against attacks on home automation systems
+- Protection against attacks on speech recognition systems and voice assistants
+
+### Cloud Security
+- Cloud Security Framework – Design a basic security model for cloud services.
+- Secure Cloud Backup System – Create a system for securely backing up files to the cloud.
+- Security in cloud computing
+- Ensuring security in the use of cloud services
+- Ensuring security in the use of cloud storage
+
+### Simulation, Testing, and Labs
+- Brute Force Attack Simulator – Simulate a brute force attack on passwords.
+- Ransomware Defense Simulator – Simulate ransomware attacks and defenses.
+- Cyber Attack Simulation – Simulate different types of cyberattacks on a test network.
+- DDoS Attack Simulator – Simulate a DDoS attack to test a network’s defenses.
+- Ransomware Simulator – Simulate ransomware attacks and develop countermeasures.
+- Virtual Machine Sandbox – Build a VM sandbox to safely test suspicious files.
+- Ethical Hacking Lab – Set up a virtual environment to practice ethical hacking.
+- Penetration Testing Lab – Create a lab environment for penetration testing practice.
+- Ethical Hacking Toolkit – Build a toolkit of essential hacking tools for ethical hackers.
+- DNS Spoofing Detection Tool – Build a tool to detect DNS spoofing attacks.
+- Encryption Algorithm Comparison – Compare different encryption algorithms for speed and security.
+
+### Training, Awareness, and Policy
+- Social Engineering Prevention – Build a tool to train users against social engineering attacks.
+- Cybersecurity Awareness Game – Create a fun game that teaches cybersecurity basics.
+- Cybersecurity Training Bot – Develop a chatbot that teaches cybersecurity concepts.
+- Mobile Device Security Policy – Develop a policy for securing mobile devices in a workplace.
+- Cybersecurity Policy Framework – Design a cybersecurity policy for small businesses.
+- Network Defense Strategy – Create a strategy for defending a corporate network from cyberattacks.
+- Protection of personal data in social networks
+- Cybersecurity for government agencies and large corporations
+- Creating a secure environment for online games
+- Creation of a data backup and recovery system
+- Creation of a centralized information infrastructure security management system
+- Information protection in electronic document management systems
+- Protection against security threats when using messengers and social networks in the workplace
+- Creation of a system for monitoring and protection against information leakage through social engineering methods
+- Protection against physical access to computers and servers
+
+### Blockchain and Advanced Technologies
+- Blockchain for Secure Transactions – Use blockchain for safe online payments.
+- Using blockchain technology for data security
+- Analysis and ensuring security when using smart contracts
+- Analysis and ensuring security when using blockchain technologies in the banking sector
+- Using AI technology for network security monitoring
+- Using containerization technology to ensure application security
+- Ensuring security when using virtualization technology
+- Development of methods for protection against attacks on distributed hash table (DHT) systems
+
+### Specialized Sector Security
+- Secure Online Voting System – Design a secure online platform for elections.
+- Secure E-Commerce Platform – Design a secure system for online shopping.
+- Protection of banking information from cyberattacks
+- Information protection at industrial facilities
+- Protection against attacks on trading platforms and online stores
+- Development of anti-fraud systems for financial organizations
+- Ensuring security when using mobile banking services
+- Development of a system for protection against attacks on database servers
+- Information protection during transmission over the GSM network
+- Software for protection against attacks on online banking systems
+- Software for protection against malicious files distributed through social networks
+- Phishing Detection System – Create a tool that flags phishing emails.
+- Development of software for phishing protection
